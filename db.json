@@ -10,13 +10,14 @@
   ],
   "profile": {
     "name": " 11.625%",
-"name2": " 11.10%"
+"name2": " 11.10%",
+     "government": " 14.50%",
+"private": " 16%",
+  "prof": " 16.50%"
   }
   
    "murabha": {
-    "government": " 14.50%",
-"private": " 16%"
-  "prof": " 16.50%"
+   
 
   }
 }
